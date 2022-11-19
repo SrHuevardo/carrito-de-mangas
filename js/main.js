@@ -4,7 +4,7 @@ const productos = [
     // Mangas 
     {
         id: "manga-01",
-        titulo: "manga 01",
+        titulo: "10th 1",
         imagen: "./assets/manga1.jpg",
         categoria: {
             nombre: "Mangas",
@@ -14,7 +14,7 @@ const productos = [
     },
     {
         id: "manga-02",
-        titulo: "Manga 02",
+        titulo: "Akame Ga Kill 14",
         imagen: "./assets/manga2.jpg",
         categoria: {
             nombre: "Mangas",
@@ -24,7 +24,7 @@ const productos = [
     },
     {
         id: "manga-03",
-        titulo: "Manga 03",
+        titulo: "Koe No Katachi 4",
         imagen: "./assets/manga3.jpg",
         categoria: {
             nombre: "Mangas",
@@ -34,7 +34,7 @@ const productos = [
     },
     {
         id: "manga-04",
-        titulo: "Manga 04",
+        titulo: "Konosuba 1",
         imagen: "./assets/manga4.jpg",
         categoria: {
             nombre: "Mangas",
@@ -44,7 +44,7 @@ const productos = [
     },
     {
         id: "manga-05",
-        titulo: "Manga 05",
+        titulo: "Konosuba 4",
         imagen: "./assets/manga5.jpg",
         categoria: {
             nombre: "Mangas",
@@ -54,7 +54,7 @@ const productos = [
     },
     {
         id: "manga-06",
-        titulo: "Manga 06",
+        titulo: "Komi-San 4",
         imagen: "./assets/manga6.jpg",
         categoria: {
             nombre: "Mangas",
@@ -64,7 +64,7 @@ const productos = [
     },
     {
         id: "manga-07",
-        titulo: "Manga 07",
+        titulo: "Blue Lock 1",
         imagen: "./assets/manga7.jpg",
         categoria: {
             nombre: "Mangas",
@@ -74,7 +74,7 @@ const productos = [
     },
     {
         id: "manga-08",
-        titulo: "Manga 08",
+        titulo: "Chainsaw Man 9",
         imagen: "./assets/manga8.jpg",
         categoria: {
             nombre: "Mangas",
@@ -85,7 +85,7 @@ const productos = [
     //llaveros
     {
         id: "llavero-01",
-        titulo: "Llavero 01",
+        titulo: "Llavero Bakugo",
         imagen: "./assets/llavero1.webp",
         categoria: {
             nombre: "Llaveros",
@@ -95,7 +95,7 @@ const productos = [
     },
     {
         id: "llavero-02",
-        titulo: "Llavero 02",
+        titulo: "Llavero Asuna",
         imagen: "./assets/llavero2.webp",
         categoria: {
             nombre: "Llaveros",
@@ -105,7 +105,7 @@ const productos = [
     },
     {
         id: "llavero-03",
-        titulo: "Llavero 03",
+        titulo: "Llavero Saitama",
         imagen: "./assets/llavero3.webp",
         categoria: {
             nombre: "Llaveros",
@@ -115,7 +115,7 @@ const productos = [
     },
     {
         id: "llavero-04",
-        titulo: "Llavero 04",
+        titulo: "Llavero Naruto",
         imagen: "./assets/llavero4.webp",
         categoria: {
             nombre: "Llaveros",
@@ -125,7 +125,7 @@ const productos = [
     },
     {
         id: "llavero-05",
-        titulo: "Llavero 05",
+        titulo: "Llavero Zoro",
         imagen: "./assets/llavero5.webp",
         categoria: {
             nombre: "Llaveros",
@@ -136,7 +136,7 @@ const productos = [
     //remeras
     {
         id: "remera-01",
-        titulo: "Remera 01",
+        titulo: "Remera Evangelion",
         imagen: "./assets/remera1.webp",
         categoria: {
             nombre: "Remeras",
@@ -146,7 +146,7 @@ const productos = [
     },
     {
         id: "remera-02",
-        titulo: "Remera 02",
+        titulo: "Remera JoJo's",
         imagen: "./assets/remera2.webp",
         categoria: {
             nombre: "Remeras",
@@ -156,7 +156,7 @@ const productos = [
     },
     {
         id: "remera-03",
-        titulo: "Remera 03",
+        titulo: "Remera Gibli",
         imagen: "./assets/remera3.webp",
         categoria: {
             nombre: "Remeras",
@@ -166,7 +166,7 @@ const productos = [
     },
     {
         id: "remera-04",
-        titulo: "Remera 04",
+        titulo: "Remera Zoro",
         imagen: "./assets/remera4.webp",
         categoria: {
             nombre: "Remeras",
@@ -176,7 +176,7 @@ const productos = [
     },
     {
         id: "remera-05",
-        titulo: "Remera 05",
+        titulo: "Remera Itadori",
         imagen: "./assets/remera5.webp",
         categoria: {
             nombre: "Remeras",
@@ -186,7 +186,7 @@ const productos = [
     },
     {
         id: "remera-06",
-        titulo: "Remera 06",
+        titulo: "Remera Eren",
         imagen: "./assets/remera6.webp",
         categoria: {
             nombre: "Remeras",
